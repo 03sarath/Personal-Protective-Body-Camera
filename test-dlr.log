@@ -1,0 +1,571 @@
+DEBUG:root:done m.run(), time (ms): 2836
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2824
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2810
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2794
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 615540
+DEBUG:root:done m.run(), time (ms): 2877
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2945
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2902
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:done m.run(), time (ms): 2852
+DEBUG:root:Inference result: 151, Chihuahua
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 606528
+DEBUG:root:done m.run(), time (ms): 2848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2811
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2821
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 645872
+DEBUG:root:done m.run(), time (ms): 2827
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2859
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2869
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2827
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 646048
+DEBUG:root:done m.run(), time (ms): 2862
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2887
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2863
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2861
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 645796
+DEBUG:root:done m.run(), time (ms): 2805
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2802
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2832
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2804
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 645732
+DEBUG:root:done m.run(), time (ms): 38
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 38
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 37
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 37
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 646556
+DEBUG:root:done m.run(), time (ms): 2831
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2823
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2838
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618432
+DEBUG:root:done m.run(), time (ms): 2854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2792
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2772
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2813
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618036
+DEBUG:root:done m.run(), time (ms): 2800
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2843
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2812
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2805
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 616884
+DEBUG:root:done m.run(), time (ms): 2887
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2812
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 616948
+DEBUG:root:done m.run(), time (ms): 2845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2776
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2798
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2813
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 617104
+DEBUG:root:done m.run(), time (ms): 2845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2883
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2881
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 617232
+DEBUG:root:done m.run(), time (ms): 2782
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2782
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2876
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2781
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 617428
+DEBUG:root:done m.run(), time (ms): 2821
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2789
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2825
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2788
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618424
+DEBUG:root:done m.run(), time (ms): 2868
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2783
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2819
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2903
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2929
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2925
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2895
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618412
+DEBUG:root:done m.run(), time (ms): 2776
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2914
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2805
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2776
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 616124
+DEBUG:root:done m.run(), time (ms): 2909
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2828
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2858
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2864
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 616956
+DEBUG:root:done m.run(), time (ms): 2793
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2788
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2834
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2788
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 617128
+DEBUG:root:done m.run(), time (ms): 2828
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2856
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2880
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618696
+DEBUG:root:done m.run(), time (ms): 2880
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2820
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2822
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618276
+DEBUG:root:done m.run(), time (ms): 2766
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2764
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2795
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2763
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 617364
+DEBUG:root:done m.run(), time (ms): 2883
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2912
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 3124
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2880
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 619688
+DEBUG:root:done m.run(), time (ms): 3097
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2884
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2881
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2911
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618912
+DEBUG:root:done m.run(), time (ms): 2774
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2803
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2779
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2806
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 620592
+DEBUG:root:done m.run(), time (ms): 2779
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2804
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2814
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2782
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2800
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2889
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2887
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2897
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2906
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618020
+DEBUG:root:done m.run(), time (ms): 2839
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2808
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2841
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2809
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618264
+DEBUG:root:done m.run(), time (ms): 2818
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2810
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2779
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2820
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618012
+DEBUG:root:done m.run(), time (ms): 2774
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2773
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2798
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2767
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2804
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2770
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2808
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618028
+DEBUG:root:done m.run(), time (ms): 2784
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2759
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2759
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2788
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618284
+DEBUG:root:done m.run(), time (ms): 2801
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2765
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2796
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 2800
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 618028
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514788
+DEBUG:root:done m.run(), time (ms): 856
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514768
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 871
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 862
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515108
+DEBUG:root:done m.run(), time (ms): 853
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 852
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 852
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 852
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515012
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515044
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 872
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514920
+DEBUG:root:done m.run(), time (ms): 875
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514968
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514908
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 888
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514808
+DEBUG:root:done m.run(), time (ms): 851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 884
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514776
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514956
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515088
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514960
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 845
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 844
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515008
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 877
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514764
+DEBUG:root:done m.run(), time (ms): 875
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514792
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515072
+DEBUG:root:done m.run(), time (ms): 22
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 22
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 21
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 19
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 522704
+DEBUG:root:done m.run(), time (ms): 16
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 16
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 16
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 15
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 522656
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 876
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515044
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 846
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515044
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 879
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514860
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 847
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 879
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514820
+DEBUG:root:done m.run(), time (ms): 855
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515064
+DEBUG:root:done m.run(), time (ms): 5243
+DEBUG:root:done m.run(), time (ms): 5185
+DEBUG:root:done m.run(), time (ms): 5143
+DEBUG:root:done m.run(), time (ms): 5174
+DEBUG:root:done m.run(), time (ms): 5143
+DEBUG:root:done m.run(), time (ms): 5243
+DEBUG:root:done m.run(), time (ms): 5135
+DEBUG:root:done m.run(), time (ms): 5234
+DEBUG:root:done m.run(), time (ms): 5170
+DEBUG:root:done m.run(), time (ms): 851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 850
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 889
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 851
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 513916
+DEBUG:root:done m.run(), time (ms): 848
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 849
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515076
+DEBUG:root:done m.run(), time (ms): 860
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 858
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 860
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 860
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514992
+DEBUG:root:done m.run(), time (ms): 860
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 893
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 859
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 858
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 515428
+DEBUG:root:done m.run(), time (ms): 934
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 853
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:done m.run(), time (ms): 854
+DEBUG:root:Inference result: 0, tench, Tinca tinca
+DEBUG:root:peak memory usage (bytes on OS X, kilobytes on Linux) 514952

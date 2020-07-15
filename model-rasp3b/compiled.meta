@@ -1,0 +1,30 @@
+{
+    "Requirements": {
+        "TargetDevice": "RASP3B"
+    },
+    "Compilation": {
+        "CreatedTime": 1593545930.166749
+    },
+    "Model": {
+        "Inputs": [
+            {
+                "name": "Placeholder",
+                "dtype": "float32",
+                "shape": [
+                    null,
+                    784
+                ]
+            }
+        ],
+        "Outputs": [
+            {
+                "name": "softmax_tensor:0",
+                "dtype": "float32",
+                "shape": [
+                    null,
+                    10
+                ]
+            }
+        ]
+    }
+}
